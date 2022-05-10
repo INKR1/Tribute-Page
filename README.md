@@ -21,4 +21,6 @@ Task is taken from FreeCodeCamp Responsive Web Design Project - [_"Build a Tribu
 
 > 5)Remember to use Read-Search-Ask if you get stuck.
 
-> Live view [_here_](https://67cgu.csb.app/).
+#### Live view
+
+Click [_here_](https://67cgu.csb.app/) for live view
