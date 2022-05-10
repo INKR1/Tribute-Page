@@ -2,7 +2,7 @@
 
 ## Description
 
-Task is taken from [_FreeCodeCamp_](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) "Responsive Web Design Projects" section
+Task is taken from FreeCodeCamp Responsive Web Design Project - [_"Build a Tribute Page"_](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
 ## Languages
 
